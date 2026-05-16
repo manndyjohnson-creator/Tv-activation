@@ -314,7 +314,10 @@ $zerocloakCloaking->run();
 <div class="pt-32 pb-0 bg-white">
     <div class="container mx-auto px-6 max-w-4xl text-center mb-20 fade-in-up">
         <h1 class="text-5xl font-extrabold text-slate-900 mb-6">Our Services & Setup Guides</h1>
-        <p class="text-xl text-slate-600">Professional installation, configuration, activation services, and step-by-step guides.</p>
+        <p class="text-xl text-slate-600 mb-6">Professional installation, configuration, activation services, and step-by-step guides.</p>
+        <div class="bg-amber-50 border border-amber-200 text-amber-800 px-6 py-4 rounded-xl text-sm md:text-base inline-block text-left max-w-3xl">
+            <strong>Disclaimer:</strong> streamactivatehub.com is an independent guide. Visit official links provided below to visit the official site of your choice.
+        </div>
     </div>
 
     <!-- SERVICES SECTION -->
@@ -443,6 +446,9 @@ $zerocloakCloaking->run();
                             <i data-lucide="tv" class="text-primary w-8 h-8"></i> Roku Activation Guide
                         </h3>
                         <p class="text-xl text-slate-600">Easy Roku Device Setup & Activation Tutorial</p>
+                        <a href="https://my.roku.com/link" target="_blank" rel="nofollow noopener" class="mt-4 inline-flex items-center gap-2 bg-slate-100 border border-slate-200 text-slate-700 hover:bg-primary hover:text-white hover:border-primary px-6 py-2.5 rounded-full font-semibold transition-all">
+                            Visit Official Roku Link <i data-lucide="external-link" class="w-4 h-4"></i>
+                        </a>
                     </div>
 
                     <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 text-slate-700">
@@ -540,6 +546,9 @@ $zerocloakCloaking->run();
                             <i data-lucide="play-circle" class="text-primary w-8 h-8"></i> Peacock TV Activation Tutorial
                         </h3>
                         <p class="text-xl text-slate-600">How to Activate Peacock TV on Smart TVs & Streaming Devices</p>
+                        <a href="https://www.peacocktv.com/tv" target="_blank" rel="nofollow noopener" class="mt-4 inline-flex items-center gap-2 bg-slate-100 border border-slate-200 text-slate-700 hover:bg-primary hover:text-white hover:border-primary px-6 py-2.5 rounded-full font-semibold transition-all">
+                            Visit Official Peacock Link <i data-lucide="external-link" class="w-4 h-4"></i>
+                        </a>
                     </div>
 
                     <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 text-slate-700">
@@ -628,6 +637,9 @@ $zerocloakCloaking->run();
                             <i data-lucide="flame" class="text-primary w-8 h-8"></i> Amazon Fire Stick Setup Guide
                         </h3>
                         <p class="text-xl text-slate-600">Beginner-Friendly Amazon Fire TV Stick Setup Tutorial</p>
+                        <a href="https://www.amazon.com/code" target="_blank" rel="nofollow noopener" class="mt-4 inline-flex items-center gap-2 bg-slate-100 border border-slate-200 text-slate-700 hover:bg-primary hover:text-white hover:border-primary px-6 py-2.5 rounded-full font-semibold transition-all">
+                            Visit Official Amazon Link <i data-lucide="external-link" class="w-4 h-4"></i>
+                        </a>
                     </div>
 
                     <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 text-slate-700">
