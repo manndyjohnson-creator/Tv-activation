@@ -6,7 +6,7 @@
                 
                 <!-- Brand -->
                 <div class="space-y-6">
-                    <a href="index.php" class="flex items-center gap-2 group">
+                    <a href="index" class="flex items-center gap-2 group">
                         <div class="bg-primary p-2 rounded-lg text-white">
                             <i data-lucide="tv" class="w-6 h-6"></i>
                         </div>
@@ -24,11 +24,11 @@
                 <div>
                     <h4 class="text-white font-bold mb-6 text-lg">Our Services</h4>
                     <ul class="space-y-4 text-sm">
-                        <li><a href="services.php" class="hover:text-primary transition-colors">Smart TV Setup</a></li>
-                        <li><a href="services.php" class="hover:text-primary transition-colors">Home Theater Installation</a></li>
-                        <li><a href="services.php" class="hover:text-primary transition-colors">Streaming Device Activation</a></li>
-                        <li><a href="services.php" class="hover:text-primary transition-colors">Wi-Fi & Network Setup</a></li>
-                        <li><a href="services.php" class="hover:text-primary transition-colors">Audio Calibration</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Smart TV Setup</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Home Theater Installation</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Streaming Device Activation</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Wi-Fi & Network Setup</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Audio Calibration</a></li>
                     </ul>
                 </div>
 
@@ -36,10 +36,10 @@
                 <div>
                     <h4 class="text-white font-bold mb-6 text-lg">Quick Links</h4>
                     <ul class="space-y-4 text-sm">
-                        <li><a href="index.php" class="hover:text-primary transition-colors">Home</a></li>
+                        <li><a href="index" class="hover:text-primary transition-colors">Home</a></li>
                         <li><a href="#" class="hover:text-primary transition-colors">About Us</a></li>
-                        <li><a href="blog.php" class="hover:text-primary transition-colors">Blog & Guides</a></li>
-                        <li><a href="contact.php" class="hover:text-primary transition-colors">Contact Support</a></li>
+                        <li><a href="blog" class="hover:text-primary transition-colors">Blog & Guides</a></li>
+                        <li><a href="contact" class="hover:text-primary transition-colors">Contact Support</a></li>
                         <li><a href="index.php#faq" class="hover:text-primary transition-colors">FAQ</a></li>
                     </ul>
                 </div>
@@ -69,9 +69,9 @@
             <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
                 <p>&copy; 2022 Stream Activate Hub. All rights reserved.</p>
                 <div class="flex gap-6">
-                    <a href="privacy.php" class="hover:text-white transition-colors">Privacy Policy</a>
-                    <a href="terms.php" class="hover:text-white transition-colors">Terms of Service</a>
-                    <a href="disclaimer.php" class="hover:text-white transition-colors">Disclaimer</a>
+                    <a href="privacy" class="hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="terms" class="hover:text-white transition-colors">Terms of Service</a>
+                    <a href="disclaimer" class="hover:text-white transition-colors">Disclaimer</a>
                 </div>
             </div>
         </div>

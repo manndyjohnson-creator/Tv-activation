@@ -50,7 +50,7 @@
                 <div class="bg-slate-900 text-white p-8 rounded-3xl">
                     <h3 class="font-bold text-xl mb-3">Need Immediate Help?</h3>
                     <p class="text-slate-300 mb-6 text-sm">Can't find the answer you're looking for? Our certified technicians are available.</p>
-                    <a href="contact.php" class="block text-center w-full bg-primary hover:bg-primary-dark text-white font-bold py-3 rounded-xl transition-colors">Contact Support</a>
+                    <a href="contact" class="block text-center w-full bg-primary hover:bg-primary-dark text-white font-bold py-3 rounded-xl transition-colors">Contact Support</a>
                 </div>
             </div>
         </div>
