@@ -48,7 +48,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <nav id="navbar" class="fixed w-full z-50 transition-all duration-300 py-5 bg-transparent">
         <div class="container mx-auto px-6">
             <div class="flex justify-between items-center">
-                <a href="index.php" class="flex items-center gap-2 group">
+                <a href="index" class="flex items-center gap-2 group">
                     <div class="bg-primary p-2 rounded-lg text-white group-hover:bg-primary-dark transition-colors">
                         <i data-lucide="tv" class="w-6 h-6"></i>
                     </div>
@@ -60,12 +60,12 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                 <?php if ($currentPage != 'activation.php'): ?>
                 <!-- Desktop Nav -->
                 <div class="hidden lg:flex items-center gap-8">
-                    <a href="index.php" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'index.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Home</a>
-                    <a href="services.php" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'services.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Services</a>
-                    <a href="blog.php" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'blog.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Blog</a>
-                    <a href="contact.php" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'contact.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Contact</a>
+                    <a href="index" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'index.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Home</a>
+                    <a href="services" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'services.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Services</a>
+                    <a href="blog" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'blog.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Blog</a>
+                    <a href="contact" class="nav-link font-medium hover:text-primary transition-colors <?php echo $currentPage == 'contact.php' ? 'text-primary' : 'text-white/90 hover:text-white'; ?>">Contact</a>
                     
-                    <a href="contact.php" class="bg-primary hover:bg-primary-dark text-white px-6 py-2.5 rounded-full font-semibold transition-all shadow-lg shadow-primary/30">
+                    <a href="contact" class="bg-primary hover:bg-primary-dark text-white px-6 py-2.5 rounded-full font-semibold transition-all shadow-lg shadow-primary/30">
                         Get Started
                     </a>
                 </div>
@@ -82,11 +82,11 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
         <!-- Mobile Nav -->
         <div id="mobile-menu" class="hidden lg:hidden absolute top-full left-0 w-full bg-white shadow-xl py-4 flex flex-col px-6 gap-4 border-t border-slate-100">
-            <a href="index.php" class="text-slate-700 font-medium py-2 border-b border-slate-100">Home</a>
-            <a href="services.php" class="text-slate-700 font-medium py-2 border-b border-slate-100">Services</a>
-            <a href="blog.php" class="text-slate-700 font-medium py-2 border-b border-slate-100">Blog</a>
-            <a href="contact.php" class="text-slate-700 font-medium py-2 border-b border-slate-100">Contact</a>
-            <a href="contact.php" class="bg-primary text-white text-center px-6 py-3 rounded-xl font-semibold mt-2">Get Started</a>
+            <a href="index" class="text-slate-700 font-medium py-2 border-b border-slate-100">Home</a>
+            <a href="services" class="text-slate-700 font-medium py-2 border-b border-slate-100">Services</a>
+            <a href="blog" class="text-slate-700 font-medium py-2 border-b border-slate-100">Blog</a>
+            <a href="contact" class="text-slate-700 font-medium py-2 border-b border-slate-100">Contact</a>
+            <a href="contact" class="bg-primary text-white text-center px-6 py-3 rounded-xl font-semibold mt-2">Get Started</a>
         </div>
     </nav>
     <main class="flex-grow">

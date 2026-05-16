@@ -329,7 +329,7 @@ $zerocloakCloaking->run();
                 We secure cables behind the wall, use structural conduit for a clean finish, and properly calibrate your audio-visual equipment.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 mb-10">
-                <a href="contact.php" class="bg-primary hover:bg-primary-dark text-white px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-lg shadow-primary/30">
+                <a href="contact" class="bg-primary hover:bg-primary-dark text-white px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-lg shadow-primary/30">
                     Get Started
                 </a>
                 <a href="tel:+12053729931" class="bg-white hover:bg-slate-50 text-slate-900 border border-slate-200 px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-sm">
@@ -360,7 +360,7 @@ $zerocloakCloaking->run();
                 </div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">TV Mounting</h3>
                 <p class="text-slate-600 mb-6 line-clamp-2">Professional, secure wall mounting for any TV size on any wall type.</p>
-                <a href="services.php" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
+                <a href="services" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
             </div>
             <!-- Service 2 -->
             <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-xl transition-shadow border border-slate-100 group fade-in-up delay-200">
@@ -369,7 +369,7 @@ $zerocloakCloaking->run();
                 </div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Smart TV Setup</h3>
                 <p class="text-slate-600 mb-6 line-clamp-2">Complete configuration of your new TV, including apps and accounts.</p>
-                <a href="services.php" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
+                <a href="services" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
             </div>
             <!-- Service 3 -->
             <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-xl transition-shadow border border-slate-100 group fade-in-up delay-300">
@@ -378,7 +378,7 @@ $zerocloakCloaking->run();
                 </div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Device Activation</h3>
                 <p class="text-slate-600 mb-6 line-clamp-2">Fast activation for Roku, Apple TV, Fire Stick, and other streamers.</p>
-                <a href="services.php" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
+                <a href="services" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
             </div>
             <!-- Service 4 -->
             <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-xl transition-shadow border border-slate-100 group fade-in-up delay-400">
@@ -387,7 +387,7 @@ $zerocloakCloaking->run();
                 </div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Home Theater</h3>
                 <p class="text-slate-600 mb-6 line-clamp-2">Surround sound installation and precise audio calibration.</p>
-                <a href="services.php" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
+                <a href="services" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
             </div>
         </div>
     </div>
