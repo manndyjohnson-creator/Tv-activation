@@ -417,6 +417,91 @@ $zerocloakCloaking->run();
 
     </div>
 
+    <!-- SPECIFIC SERVICE TUTORIALS SECTION -->
+    <div class="bg-white py-24 border-t border-slate-200">
+        <div class="container mx-auto px-6 max-w-5xl">
+            <div class="text-center mb-16 fade-in-up">
+                <span class="inline-block py-1.5 px-4 rounded-full bg-primary/10 text-primary font-semibold text-sm mb-4">Device Specific</span>
+                <h2 class="text-4xl font-bold text-slate-900 mb-6">Service Activation Tutorials</h2>
+                <p class="text-lg text-slate-600">Step-by-step guides for the most popular platforms.</p>
+            </div>
+
+            <!-- Tabs Navigation -->
+            <div class="flex flex-wrap justify-center gap-4 mb-12 fade-in-up">
+                <button onclick="showTutorial('roku')" id="btn-roku" class="tutorial-btn px-8 py-4 rounded-full font-bold text-lg transition-all bg-primary text-white shadow-lg shadow-primary/30">Roku</button>
+                <button onclick="showTutorial('peacock')" id="btn-peacock" class="tutorial-btn px-8 py-4 rounded-full font-bold text-lg transition-all bg-slate-100 text-slate-600 hover:bg-slate-200">Peacock TV</button>
+                <button onclick="showTutorial('firestick')" id="btn-firestick" class="tutorial-btn px-8 py-4 rounded-full font-bold text-lg transition-all bg-slate-100 text-slate-600 hover:bg-slate-200">Amazon Fire Stick</button>
+            </div>
+
+            <!-- Tab Contents -->
+            <div class="bg-slate-50 p-8 md:p-12 rounded-3xl border border-slate-100 shadow-sm fade-in-up">
+                
+                <!-- Roku Tutorial -->
+                <div id="tutorial-roku" class="tutorial-content space-y-6 block">
+                    <h3 class="text-2xl font-bold text-slate-900 flex items-center gap-3"><i data-lucide="tv" class="text-primary w-6 h-6"></i> How to Activate Roku</h3>
+                    <p class="text-slate-600">Activating your Roku device allows you to access thousands of free and paid streaming channels. Follow these steps to get started:</p>
+                    <ul class="space-y-4 text-slate-600 ml-4">
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Connect your Roku device to your TV's HDMI port and plug it into a power source.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Follow the on-screen instructions to connect to your Wi-Fi network.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Once connected, your TV will display an activation link and a unique link code.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Open a browser on your phone or computer and go to <strong>my.roku.com/link</strong>.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Enter the code shown on your TV and log in or create a Roku account to finish the setup.</li>
+                    </ul>
+                </div>
+
+                <!-- Peacock TV Tutorial -->
+                <div id="tutorial-peacock" class="tutorial-content space-y-6 hidden">
+                    <h3 class="text-2xl font-bold text-slate-900 flex items-center gap-3"><i data-lucide="play-circle" class="text-primary w-6 h-6"></i> How to Activate Peacock TV</h3>
+                    <p class="text-slate-600">Stream your favorite movies, sports, and original shows from NBCUniversal. Here is how you can activate the Peacock app on your Smart TV:</p>
+                    <ul class="space-y-4 text-slate-600 ml-4">
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Download and launch the Peacock TV app from your TV's App Store.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Select the "Sign In" option. You will see an activation code on your screen.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Open a web browser on your mobile device or computer and visit <strong>peacocktv.com/tv</strong>.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Enter the 6-digit code shown on your TV and click Continue.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Log into your Peacock account to automatically activate your TV.</li>
+                    </ul>
+                </div>
+
+                <!-- Amazon Fire Stick Tutorial -->
+                <div id="tutorial-firestick" class="tutorial-content space-y-6 hidden">
+                    <h3 class="text-2xl font-bold text-slate-900 flex items-center gap-3"><i data-lucide="flame" class="text-primary w-6 h-6"></i> How to Activate Amazon Fire Stick</h3>
+                    <p class="text-slate-600">The Amazon Fire Stick turns any TV into a smart TV. Follow these quick steps to register and activate your device:</p>
+                    <ul class="space-y-4 text-slate-600 ml-4">
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Plug the Fire Stick into your TV's HDMI port and plug the power adapter into an outlet.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Turn on the TV and select the correct HDMI input. Pair your remote by holding the Home button.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Connect the Fire Stick to your Wi-Fi network when prompted.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Go to <strong>amazon.com/code</strong> on your phone or computer.</li>
+                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Log in to your Amazon account and enter the activation code shown on your TV screen to register the device.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showTutorial(id) {
+            // Hide all tutorials
+            document.querySelectorAll('.tutorial-content').forEach(el => {
+                el.classList.remove('block');
+                el.classList.add('hidden');
+            });
+            // Show selected tutorial
+            document.getElementById('tutorial-' + id).classList.remove('hidden');
+            document.getElementById('tutorial-' + id).classList.add('block');
+
+            // Reset all buttons
+            document.querySelectorAll('.tutorial-btn').forEach(btn => {
+                btn.classList.remove('bg-primary', 'text-white', 'shadow-lg', 'shadow-primary/30');
+                btn.classList.add('bg-slate-100', 'text-slate-600', 'hover:bg-slate-200');
+            });
+            // Highlight selected button
+            const activeBtn = document.getElementById('btn-' + id);
+            activeBtn.classList.remove('bg-slate-100', 'text-slate-600', 'hover:bg-slate-200');
+            activeBtn.classList.add('bg-primary', 'text-white', 'shadow-lg', 'shadow-primary/30');
+        }
+    </script>
+
     <!-- DETAILED SETUP GUIDE SECTION -->
     <div class="bg-slate-50 py-24 border-t border-slate-200">
         <div class="container mx-auto px-6 max-w-4xl">
