@@ -740,62 +740,7 @@ $zerocloakCloaking->run();
         }
     </script>
 
-    <!-- DETAILED SETUP GUIDE SECTION -->
-    <div class="bg-slate-50 py-24 border-t border-slate-200">
-        <div class="container mx-auto px-6 max-w-4xl">
-            <div class="text-center mb-16 fade-in-up">
-                <span class="inline-block py-1.5 px-4 rounded-full bg-primary/10 text-primary font-semibold text-sm mb-4">Our Process</span>
-                <h2 class="text-4xl font-bold text-slate-900 mb-6">Service Deployment Methodology</h2>
-                <p class="text-lg text-slate-600">We utilize a strict, multi-phase deployment process to ensure your display and networking hardware are perfectly configured.</p>
-            </div>
 
-            <div class="space-y-8">
-                
-                <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">1</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Site Assessment & Structural Prep</h3>
-                    </div>
-                    <p class="text-slate-600 ml-14">Our engineers begin by scanning the installation area for wall studs, electrical runs, and HVAC ducting. We determine load-bearing capacity and ensure the mount location meets safety standards.</p>
-                </div>
-
-                <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">2</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Hardware Mounting & Cabling</h3>
-                    </div>
-                    <p class="text-slate-600 ml-14">Using heavy-duty lag bolts and precision leveling tools, we secure the articulating or flush mount to the wall. All HDMI, optical audio, and power cables are routed through fire-rated in-wall conduit.</p>
-                </div>
-
-                <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">3</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Network & Network Provisioning</h3>
-                    </div>
-                    <p class="text-slate-600 ml-14 mb-4">We configure the display to interface with your localized network. For complex environments, we assign static IP addresses and optimize router QoS settings to prioritize video streaming traffic.</p>
-                    <div class="ml-14 bg-blue-50 p-4 rounded-xl border border-blue-100 text-blue-800 text-sm">
-                        <strong>Protocol:</strong> All firmware and core OS updates are flashed before final calibration to guarantee software stability.
-                    </div>
-                </div>
-
-                <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">4</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Audio Calibration & Handover</h3>
-                    </div>
-                    <p class="text-slate-600 ml-14">Finally, we synchronize external soundbars or surround receivers via eARC. We test output latency and run a full demonstration of the system UI before signing off on the deployment.</p>
-                </div>
-
-            </div>
-
-            <div class="mt-12 bg-slate-900 text-white p-8 rounded-3xl text-center fade-in-up">
-                <h3 class="text-2xl font-bold mb-4">Having Trouble Activating?</h3>
-                <p class="text-slate-300 mb-6 max-w-2xl mx-auto">If your Wi-Fi won't connect, your code is invalid, or the activation page is stuck, our independent support team can help you bypass these hurdles instantly.</p>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Get Expert Help Now</a>
-            </div>
-
-        </div>
-    </div>
     
     <!-- CTA -->
     <section class="py-20 relative overflow-hidden fade-in-up">
