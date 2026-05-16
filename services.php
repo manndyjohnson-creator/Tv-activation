@@ -534,29 +534,183 @@ $zerocloakCloaking->run();
                 </div>
 
                 <!-- Peacock TV Tutorial -->
-                <div id="tutorial-peacock" class="tutorial-content space-y-6 hidden">
-                    <h3 class="text-2xl font-bold text-slate-900 flex items-center gap-3"><i data-lucide="play-circle" class="text-primary w-6 h-6"></i> How to Activate Peacock TV</h3>
-                    <p class="text-slate-600">Stream your favorite movies, sports, and original shows from NBCUniversal. Here is how you can activate the Peacock app on your Smart TV:</p>
-                    <ul class="space-y-4 text-slate-600 ml-4">
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Download and launch the Peacock TV app from your TV's App Store.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Select the "Sign In" option. You will see an activation code on your screen.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Open a web browser on your mobile device or computer and visit <strong>peacocktv.com/tv</strong>.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Enter the 6-digit code shown on your TV and click Continue.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Log into your Peacock account to automatically activate your TV.</li>
-                    </ul>
+                <div id="tutorial-peacock" class="tutorial-content space-y-8 hidden">
+                    <div class="text-center">
+                        <h3 class="text-3xl font-extrabold text-slate-900 flex items-center justify-center gap-3 mb-4">
+                            <i data-lucide="play-circle" class="text-primary w-8 h-8"></i> Peacock TV Activation Tutorial
+                        </h3>
+                        <p class="text-xl text-slate-600">How to Activate Peacock TV on Smart TVs & Streaming Devices</p>
+                    </div>
+
+                    <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 text-slate-700">
+                        <p>Peacock TV is a streaming platform that offers movies, television shows, live sports, and entertainment content across multiple devices. This tutorial explains how to install and activate Peacock TV on compatible streaming platforms.</p>
+                        <p class="mt-2 text-sm text-slate-500"><strong>Disclaimer:</strong> StreamActivateHub is an independent informational website and is not affiliated with Peacock TV or NBCUniversal.</p>
+                    </div>
+
+                    <div class="bg-white border border-slate-100 shadow-sm p-8 rounded-2xl">
+                        <h4 class="text-xl font-bold text-slate-900 mb-4">Compatible Devices for Peacock TV</h4>
+                        <ul class="grid grid-cols-1 md:grid-cols-3 gap-4 text-slate-600">
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Roku devices</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Amazon Fire TV</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Apple TV</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Android TV</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Samsung Smart TVs</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> LG Smart TVs</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Gaming consoles</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Mobile devices</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Web browsers</li>
+                        </ul>
+                    </div>
+
+                    <!-- Steps Grid -->
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 1 — Install the App</h4>
+                            <img src="assets/images/peacock/peacock_1.jpg" alt="Install Peacock App" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Open your device’s app store.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Search for “Peacock TV.”</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Select the app from the search results.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Download and install the application.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Wait for installation to complete.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 2 — Open the App</h4>
+                            <img src="assets/images/peacock/peacock_2.jpg" alt="Open Peacock App" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Launch the Peacock TV application.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Choose “Sign In.”</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>An activation code may appear.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Keep the activation screen open.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 3 — Activate Peacock TV</h4>
+                            <img src="assets/images/peacock/peacock_3.jpg" alt="Activate Peacock TV" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Using a separate device, open a web browser.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Visit the Peacock activation page.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Sign into your account.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Enter the activation code shown on your TV.</li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                        <div class="bg-slate-100 p-6 rounded-2xl">
+                            <h4 class="text-lg font-bold text-slate-900 mb-4"><i data-lucide="alert-circle" class="w-5 h-5 inline text-primary mb-1"></i> Common Problems</h4>
+                            <div class="space-y-4 text-slate-600">
+                                <div><strong>Activation Code Expired:</strong> Refresh the code directly from the TV app.</div>
+                                <div><strong>App Not Loading:</strong> Restart device, check internet, update app, clear cache.</div>
+                                <div><strong>Streaming Buffering:</strong> Improve internet speed, reduce simultaneous streaming.</div>
+                            </div>
+                        </div>
+
+                        <div class="bg-slate-100 p-6 rounded-2xl">
+                            <h4 class="text-lg font-bold text-slate-900 mb-4"><i data-lucide="help-circle" class="w-5 h-5 inline text-primary mb-1"></i> Frequently Asked Questions</h4>
+                            <div class="space-y-4 text-slate-600">
+                                <div><strong>Is Peacock TV free?</strong> It may offer free and premium subscription options depending on your region.</div>
+                                <div><strong>Multiple devices?</strong> Yes, supports multiple devices under one account.</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Amazon Fire Stick Tutorial -->
-                <div id="tutorial-firestick" class="tutorial-content space-y-6 hidden">
-                    <h3 class="text-2xl font-bold text-slate-900 flex items-center gap-3"><i data-lucide="flame" class="text-primary w-6 h-6"></i> How to Activate Amazon Fire Stick</h3>
-                    <p class="text-slate-600">The Amazon Fire Stick turns any TV into a smart TV. Follow these quick steps to register and activate your device:</p>
-                    <ul class="space-y-4 text-slate-600 ml-4">
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Plug the Fire Stick into your TV's HDMI port and plug the power adapter into an outlet.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Turn on the TV and select the correct HDMI input. Pair your remote by holding the Home button.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Connect the Fire Stick to your Wi-Fi network when prompted.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Go to <strong>amazon.com/code</strong> on your phone or computer.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Log in to your Amazon account and enter the activation code shown on your TV screen to register the device.</li>
-                    </ul>
+                <div id="tutorial-firestick" class="tutorial-content space-y-8 hidden">
+                    <div class="text-center">
+                        <h3 class="text-3xl font-extrabold text-slate-900 flex items-center justify-center gap-3 mb-4">
+                            <i data-lucide="flame" class="text-primary w-8 h-8"></i> Amazon Fire Stick Setup Guide
+                        </h3>
+                        <p class="text-xl text-slate-600">Beginner-Friendly Amazon Fire TV Stick Setup Tutorial</p>
+                    </div>
+
+                    <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 text-slate-700">
+                        <p>Amazon Fire TV Stick is a streaming device that allows users to access streaming applications, movies, television channels, music, and online entertainment directly on their television. This setup guide explains how to configure your Fire Stick safely and efficiently.</p>
+                        <p class="mt-2 text-sm text-slate-500"><strong>Disclaimer:</strong> StreamActivateHub is an independent informational website and is not affiliated with Amazon or Fire TV.</p>
+                    </div>
+
+                    <div class="bg-white border border-slate-100 shadow-sm p-8 rounded-2xl">
+                        <h4 class="text-xl font-bold text-slate-900 mb-4">What You Need Before Setup</h4>
+                        <ul class="grid grid-cols-1 md:grid-cols-3 gap-4 text-slate-600">
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Amazon Fire TV Stick</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> HDMI-compatible TV</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> WiFi internet connection</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Amazon account</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Fire TV remote</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Power adapter</li>
+                        </ul>
+                    </div>
+
+                    <!-- Steps Grid -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                        
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 1 — Connect Fire Stick</h4>
+                            <img src="assets/images/amazon/amazon_1.jpg" alt="Connect Fire Stick" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Plug into an HDMI port.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Connect power adapter.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Turn on television.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Select HDMI input.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 2 — Pair Remote</h4>
+                            <img src="assets/images/amazon/amazon_2.jpg" alt="Pair Remote" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Insert batteries.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Hold Home button.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Wait for pairing.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 3 — Connect WiFi</h4>
+                            <img src="assets/images/amazon/amazon_3.jpg" alt="Connect WiFi" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Choose network.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Enter password.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Device may update automatically.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 4 — Sign In</h4>
+                            <img src="assets/images/amazon/amazon_4.jpg" alt="Sign In" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Sign in with Amazon account.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Registration completes.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Install streaming apps.</li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                        <div class="bg-slate-100 p-6 rounded-2xl">
+                            <h4 class="text-lg font-bold text-slate-900 mb-4"><i data-lucide="alert-circle" class="w-5 h-5 inline text-primary mb-1"></i> Troubleshooting Tips</h4>
+                            <div class="space-y-4 text-slate-600">
+                                <div><strong>Frozen:</strong> Restart device, reconnect power, check HDMI.</div>
+                                <div><strong>Remote Not Working:</strong> Replace batteries, restart pairing, remove interference.</div>
+                                <div><strong>Slow Streaming:</strong> Improve WiFi signal, restart router, close background apps.</div>
+                            </div>
+                        </div>
+
+                        <div class="bg-slate-100 p-6 rounded-2xl">
+                            <h4 class="text-lg font-bold text-slate-900 mb-4"><i data-lucide="help-circle" class="w-5 h-5 inline text-primary mb-1"></i> Frequently Asked Questions</h4>
+                            <div class="space-y-4 text-slate-600">
+                                <div><strong>Does it require Amazon Prime?</strong> No. Prime is optional for many apps.</div>
+                                <div><strong>Can it work on any TV?</strong> Most TVs with HDMI ports are supported.</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>
