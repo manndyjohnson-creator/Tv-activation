@@ -6,7 +6,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PrimeSetups | Smart TV Setup & Activation Services</title>
+    <title>Stream Activate Hub | Smart TV Setup & Activation Services</title>
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,7 +53,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                         <i data-lucide="tv" class="w-6 h-6"></i>
                     </div>
                     <span id="nav-logo-text" class="text-xl font-bold text-white transition-colors duration-300">
-                        Prime<span class="text-primary">Setups</span>
+                        Stream Activate <span class="text-primary">Hub</span>
                     </span>
                 </a>
 

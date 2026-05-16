@@ -398,7 +398,7 @@ $zerocloakCloaking->run();
     <div class="container mx-auto px-6">
         <div class="flex flex-col lg:flex-row gap-16 items-center">
             <div class="lg:w-1/3 fade-in-up">
-                <h2 class="text-4xl font-bold text-slate-900 mb-6">Why Choose <span class="text-primary">PrimeSetups?</span></h2>
+                <h2 class="text-4xl font-bold text-slate-900 mb-6">Why Choose <span class="text-primary">Stream Activate Hub?</span></h2>
                 <p class="text-lg text-slate-600 mb-8">
                     Our team relies on commercial-grade networking gear and load-bearing mounts to ensure your equipment runs safely and reliably.
                 </p>

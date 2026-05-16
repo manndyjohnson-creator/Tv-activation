@@ -35,7 +35,7 @@ include 'includes/header.php';
                             </div>
                             <div>
                                 <p class="font-bold text-slate-900">Email</p>
-                                <p class="text-slate-600">support@primesetups.com</p>
+                                <p class="text-slate-600">support@streamactivatehub.com</p>
                             </div>
                         </div>
                         <div class="flex gap-4">

@@ -11,7 +11,7 @@
                             <i data-lucide="tv" class="w-6 h-6"></i>
                         </div>
                         <span class="text-xl font-bold text-white">
-                            Prime<span class="text-primary">Setups</span>
+                            Stream Activate <span class="text-primary">Hub</span>
                         </span>
                     </a>
                     <p class="text-sm leading-relaxed">
@@ -58,7 +58,7 @@
                         </li>
                         <li class="flex items-center gap-3">
                             <i data-lucide="mail" class="text-primary shrink-0 w-4 h-4"></i>
-                            <span>support@primesetups.com</span>
+                            <span>support@streamactivatehub.com</span>
                         </li>
                     </ul>
                 </div>
@@ -67,7 +67,7 @@
             <?php endif; ?>
 
             <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-                <p>&copy; <?php echo date("Y"); ?> PrimeSetups. All rights reserved.</p>
+                <p>&copy; <?php echo date("Y"); ?> Stream Activate Hub. All rights reserved.</p>
                 <div class="flex gap-6">
                     <a href="privacy.php" class="hover:text-white transition-colors">Privacy Policy</a>
                     <a href="terms.php" class="hover:text-white transition-colors">Terms of Service</a>
