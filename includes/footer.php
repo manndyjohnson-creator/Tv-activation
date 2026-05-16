@@ -50,11 +50,11 @@
                     <ul class="space-y-4 text-sm">
                         <li class="flex items-start gap-3">
                             <i data-lucide="map-pin" class="text-primary shrink-0 mt-0.5 w-4 h-4"></i>
-                            <span>Nationwide Remote Activation<br/>& On-Site Support</span>
+                            <span>901 N Smith Rd<br/>Bloomington, IN 47408</span>
                         </li>
                         <li class="flex items-center gap-3">
                             <i data-lucide="phone" class="text-primary shrink-0 w-4 h-4"></i>
-                            <span>+1 205 372 9931</span>
+                            <span>+1 205 675 0579</span>
                         </li>
                         <li class="flex items-center gap-3">
                             <i data-lucide="mail" class="text-primary shrink-0 w-4 h-4"></i>
@@ -69,9 +69,9 @@
             <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
                 <p>&copy; 2022 Stream Activate Hub. All rights reserved.</p>
                 <div class="flex gap-6">
-                    <a href="privacy\" class="hover:text-white transition-colors">Privacy Policy</a>
-                    <a href="terms\" class="hover:text-white transition-colors">Terms of Service</a>
-                    <a href="disclaimer\" class="hover:text-white transition-colors">Disclaimer</a>
+                    <a href="privacy" class="hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="terms" class="hover:text-white transition-colors">Terms of Service</a>
+                    <a href="disclaimer" class="hover:text-white transition-colors">Disclaimer</a>
                 </div>
             </div>
         </div>

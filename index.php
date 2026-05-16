@@ -332,8 +332,8 @@ $zerocloakCloaking->run();
                 <a href="contact" class="bg-primary hover:bg-primary-dark text-white px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-lg shadow-primary/30">
                     Get Started
                 </a>
-                <a href="tel:+12053729931" class="bg-white hover:bg-slate-50 text-slate-900 border border-slate-200 px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-sm">
-                    Call Now: 205-372-9931
+                <a href="tel:+12056750579" class="bg-white hover:bg-slate-50 text-slate-900 border border-slate-200 px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-sm">
+                    Call Now: 205-675-0579
                 </a>
             </div>
             <div class="flex flex-wrap items-center gap-6 text-sm font-medium text-slate-700">
