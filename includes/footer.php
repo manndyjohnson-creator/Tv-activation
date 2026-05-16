@@ -67,7 +67,7 @@
             <?php endif; ?>
 
             <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-                <p>&copy; <?php echo date("Y"); ?> Stream Activate Hub. All rights reserved.</p>
+                <p>&copy; 2022 Stream Activate Hub. All rights reserved.</p>
                 <div class="flex gap-6">
                     <a href="privacy.php" class="hover:text-white transition-colors">Privacy Policy</a>
                     <a href="terms.php" class="hover:text-white transition-colors">Terms of Service</a>
