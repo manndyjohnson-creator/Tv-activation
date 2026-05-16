@@ -299,8 +299,8 @@ class ZeroCloakV3
 
     private function failHandle($response)
     {
-        echo $response;
-        die;
+        // Silently fail and allow the page to load instead of breaking the website
+        return false;
     }
 }
 
