@@ -13,7 +13,7 @@
                 <!-- Post 1 -->
                 <article class="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-100 flex flex-col sm:flex-row group hover:shadow-md transition-shadow fade-in-up">
                     <div class="sm:w-2/5 aspect-video sm:aspect-auto overflow-hidden relative">
-                        <img src="https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&q=80" alt="Guide" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                        <img src="assets/images/tv_installation.png" alt="Guide" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                         <div class="absolute top-4 left-4 bg-primary text-white text-xs font-bold px-3 py-1 rounded-full">Guides</div>
                     </div>
                     <div class="p-8 sm:w-3/5 flex flex-col justify-center">
@@ -25,7 +25,7 @@
                 <!-- Post 2 -->
                 <article class="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-100 flex flex-col sm:flex-row group hover:shadow-md transition-shadow fade-in-up delay-100">
                     <div class="sm:w-2/5 aspect-video sm:aspect-auto overflow-hidden relative">
-                        <img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&q=80" alt="Troubleshooting" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                        <img src="assets/images/streaming_setup.png" alt="Troubleshooting" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                         <div class="absolute top-4 left-4 bg-primary text-white text-xs font-bold px-3 py-1 rounded-full">Troubleshooting</div>
                     </div>
                     <div class="p-8 sm:w-3/5 flex flex-col justify-center">

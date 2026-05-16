@@ -324,7 +324,7 @@ $zerocloakCloaking->run();
         <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
                 <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
-                    <img src="https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&q=80" alt="TV Installation" class="object-cover w-full h-full" />
+                    <img src="assets/images/tv_installation.png" alt="TV Installation" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -351,7 +351,7 @@ $zerocloakCloaking->run();
         <div class="flex flex-col lg:flex-row-reverse gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
                 <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
-                    <img src="https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&q=80" alt="Cable Management" class="object-cover w-full h-full" />
+                    <img src="assets/images/cable_management.png" alt="Cable Management" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -361,7 +361,7 @@ $zerocloakCloaking->run();
                     </div>
                     <h2 class="text-3xl font-bold text-slate-900">Cable Management Solutions</h2>
                 </div>
-                <p class="text-lg text-slate-600 mb-6 leading-relaxed">Say goodbye to messy, tangled cables. We provide clean, aesthetic installations where all wires are hidden behind walls or within sleek cable raceways.</p>
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">We deploy architectural conduit and in-wall routing techniques to completely hide all low-voltage and power cabling from view, ensuring a clean, modern aesthetic.</p>
                 <div class="mb-8">
                     <h4 class="font-bold text-slate-900 mb-4 text-lg">What's Included:</h4>
                     <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -378,7 +378,7 @@ $zerocloakCloaking->run();
         <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
                 <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
-                    <img src="https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&q=80" alt="Streaming Setup" class="object-cover w-full h-full" />
+                    <img src="assets/images/streaming_setup.png" alt="Streaming Setup" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -408,9 +408,9 @@ $zerocloakCloaking->run();
     <div class="bg-slate-50 py-24 border-t border-slate-200">
         <div class="container mx-auto px-6 max-w-4xl">
             <div class="text-center mb-16 fade-in-up">
-                <span class="inline-block py-1.5 px-4 rounded-full bg-primary/10 text-primary font-semibold text-sm mb-4">Setup Guide</span>
-                <h2 class="text-4xl font-bold text-slate-900 mb-6">Complete Guide for TV Setup & Activation</h2>
-                <p class="text-lg text-slate-600">Setting up a smart television can feel confusing, especially when you reach the activation screen. This complete step-by-step guide walks you through the entire process from unboxing to streaming.</p>
+                <span class="inline-block py-1.5 px-4 rounded-full bg-primary/10 text-primary font-semibold text-sm mb-4">Our Process</span>
+                <h2 class="text-4xl font-bold text-slate-900 mb-6">Service Deployment Methodology</h2>
+                <p class="text-lg text-slate-600">We utilize a strict, multi-phase deployment process to ensure your display and networking hardware are perfectly configured.</p>
             </div>
 
             <div class="space-y-8">
@@ -418,58 +418,36 @@ $zerocloakCloaking->run();
                 <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
                     <div class="flex items-center gap-4 mb-4">
                         <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">1</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Unbox and Place Your TV</h3>
+                        <h3 class="text-2xl font-bold text-slate-900">Site Assessment & Structural Prep</h3>
                     </div>
-                    <p class="text-slate-600 ml-14">Start by safely unboxing your device. Place it on a stable surface or have it professionally mounted. Ensure there is proper ventilation, avoid direct sunlight, and verify access to a nearby power outlet.</p>
+                    <p class="text-slate-600 ml-14">Our engineers begin by scanning the installation area for wall studs, electrical runs, and HVAC ducting. We determine load-bearing capacity and ensure the mount location meets safety standards.</p>
                 </div>
 
                 <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
                     <div class="flex items-center gap-4 mb-4">
                         <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">2</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Connect Power and Turn On</h3>
+                        <h3 class="text-2xl font-bold text-slate-900">Hardware Mounting & Cabling</h3>
                     </div>
-                    <p class="text-slate-600 ml-14">Plug in the power cable and turn on the device using the remote. During this initial boot, you will be prompted to choose your language and geographical region. Select the correct options to proceed smoothly.</p>
+                    <p class="text-slate-600 ml-14">Using heavy-duty lag bolts and precision leveling tools, we secure the articulating or flush mount to the wall. All HDMI, optical audio, and power cables are routed through fire-rated in-wall conduit.</p>
                 </div>
 
                 <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
                     <div class="flex items-center gap-4 mb-4">
                         <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">3</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Connect to Wi-Fi & Update</h3>
+                        <h3 class="text-2xl font-bold text-slate-900">Network & Network Provisioning</h3>
                     </div>
-                    <p class="text-slate-600 ml-14 mb-4">A stable internet connection is essential for activation. Choose your home Wi-Fi network and enter the password. Without the internet, you cannot complete the setup process.</p>
+                    <p class="text-slate-600 ml-14 mb-4">We configure the display to interface with your localized network. For complex environments, we assign static IP addresses and optimize router QoS settings to prioritize video streaming traffic.</p>
                     <div class="ml-14 bg-blue-50 p-4 rounded-xl border border-blue-100 text-blue-800 text-sm">
-                        <strong>Important:</strong> Most devices will check for software updates automatically. Always let it update to the latest firmware version to avoid bugs or errors during activation.
+                        <strong>Protocol:</strong> All firmware and core OS updates are flashed before final calibration to guarantee software stability.
                     </div>
                 </div>
 
                 <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
                     <div class="flex items-center gap-4 mb-4">
                         <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">4</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Get Your Activation Code</h3>
+                        <h3 class="text-2xl font-bold text-slate-900">Audio Calibration & Handover</h3>
                     </div>
-                    <p class="text-slate-600 ml-14">After connecting to Wi-Fi and updating, your TV will display an activation screen with a unique alphanumeric code. Leave your TV on this screen—do not exit or turn off the TV.</p>
-                </div>
-
-                <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">5</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Enter Code on Activation Page</h3>
-                    </div>
-                    <p class="text-slate-600 ml-14 mb-4">To complete the activation process:</p>
-                    <ul class="ml-14 space-y-2 text-slate-600 list-disc list-inside">
-                        <li>Open a browser on your smartphone, tablet, or computer.</li>
-                        <li>Navigate to the activation URL displayed on your TV screen (e.g., <em>provider.com/activate</em>).</li>
-                        <li>Sign in to your streaming account.</li>
-                        <li>Enter the exact code displayed on your TV into the website.</li>
-                    </ul>
-                </div>
-
-                <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 fade-in-up">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-10 h-10 bg-primary text-white rounded-full flex items-center justify-center font-bold text-lg">6</div>
-                        <h3 class="text-2xl font-bold text-slate-900">Wait for Confirmation</h3>
-                    </div>
-                    <p class="text-slate-600 ml-14">Once the code is submitted and verified online, your TV screen will automatically refresh within a few seconds. Your device is now linked, and you can start installing apps, customizing settings, and enjoying your favorite content!</p>
+                    <p class="text-slate-600 ml-14">Finally, we synchronize external soundbars or surround receivers via eARC. We test output latency and run a full demonstration of the system UI before signing off on the deployment.</p>
                 </div>
 
             </div>
@@ -488,7 +466,7 @@ $zerocloakCloaking->run();
         <div class="absolute inset-0 bg-primary"></div>
         <div class="container mx-auto px-6 relative z-10 text-center">
             <h2 class="text-4xl md:text-5xl font-extrabold text-white mb-6">Need Help Setting Up Your Device?</h2>
-            <p class="text-xl text-primary-100 mb-10 text-white/90">Our certified technicians are standing by to get you connected fast.</p>
+            <p class="text-xl text-primary-100 mb-10 text-white/90">Reach out to our AV integration team to schedule an on-site consultation.</p>
             <div class="flex flex-col sm:flex-row justify-center gap-4">
                 <a href="contact.php" class="bg-white text-primary hover:bg-slate-50 px-8 py-4 rounded-full font-bold text-lg shadow-xl">Contact Us Online</a>
             </div>

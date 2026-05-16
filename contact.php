@@ -26,7 +26,7 @@ include 'includes/header.php';
                             </div>
                             <div>
                                 <p class="font-bold text-slate-900">Phone</p>
-                                <p class="text-slate-600">+1 (800) 123-4567</p>
+                                <p class="text-slate-600">+1 205 372 9931</p>
                             </div>
                         </div>
                         <div class="flex gap-4">
@@ -43,8 +43,8 @@ include 'includes/header.php';
                                 <i data-lucide="map-pin" class="text-primary w-6 h-6"></i>
                             </div>
                             <div>
-                                <p class="font-bold text-slate-900">Address</p>
-                                <p class="text-slate-600">123 Tech Avenue<br/>San Francisco, CA 94105</p>
+                                <p class="font-bold text-slate-900">Support Area</p>
+                                <p class="text-slate-600">Nationwide Remote Activation<br/>& On-Site Support</p>
                             </div>
                         </div>
                     </div>

@@ -326,14 +326,14 @@ $zerocloakCloaking->run();
                 Fast & Easy <span class="text-primary">Smart TV</span> Setup Services
             </h1>
             <p class="text-lg text-slate-600 mb-8 leading-relaxed max-w-xl">
-                Professional installation, streaming device activation, and network configuration. We make your home entertainment seamless and hassle-free.
+                We secure cables behind the wall, use structural conduit for a clean finish, and properly calibrate your audio-visual equipment.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 mb-10">
                 <a href="contact.php" class="bg-primary hover:bg-primary-dark text-white px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-lg shadow-primary/30">
                     Get Started
                 </a>
-                <a href="tel:+18001234567" class="bg-white hover:bg-slate-50 text-slate-900 border border-slate-200 px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-sm">
-                    Call Now: (800) 123-4567
+                <a href="tel:+12053729931" class="bg-white hover:bg-slate-50 text-slate-900 border border-slate-200 px-8 py-4 rounded-full font-bold text-lg text-center transition-all shadow-sm">
+                    Call Now: 205-372-9931
                 </a>
             </div>
             <div class="flex flex-wrap items-center gap-6 text-sm font-medium text-slate-700">
@@ -350,7 +350,7 @@ $zerocloakCloaking->run();
     <div class="container mx-auto px-6">
         <div class="text-center max-w-3xl mx-auto mb-16 fade-in-up">
             <h2 class="text-4xl font-bold text-slate-900 mb-4">Premium Installation Services</h2>
-            <p class="text-lg text-slate-600">From a simple TV setup to a full custom home theater, our experts handle everything with precision and care.</p>
+            <p class="text-lg text-slate-600">We provide structural mounting for heavy displays, hidden wire routing, and custom audio zoning for a clean look.</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <!-- Service 1 -->
@@ -400,7 +400,7 @@ $zerocloakCloaking->run();
             <div class="lg:w-1/3 fade-in-up">
                 <h2 class="text-4xl font-bold text-slate-900 mb-6">Why Choose <span class="text-primary">PrimeSetups?</span></h2>
                 <p class="text-lg text-slate-600 mb-8">
-                    We go beyond simple installation. We ensure your entire entertainment ecosystem works together seamlessly.
+                    Our team relies on commercial-grade networking gear and load-bearing mounts to ensure your equipment runs safely and reliably.
                 </p>
                 <div class="bg-slate-50 p-6 rounded-2xl border border-slate-100">
                     <p class="font-semibold text-slate-800 text-lg mb-2">"The best service I've ever experienced."</p>
@@ -435,11 +435,11 @@ $zerocloakCloaking->run();
 
 <!-- Step Guide -->
 <section class="py-24 bg-slate-900 text-white overflow-hidden relative">
-    <div class="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&q=80')] bg-cover bg-center mix-blend-overlay"></div>
+    <div class="absolute inset-0 opacity-10 bg-black bg-cover bg-center mix-blend-overlay"></div>
     <div class="container mx-auto px-6 relative z-10">
         <div class="text-center max-w-3xl mx-auto mb-16 fade-in-up">
             <h2 class="text-4xl font-bold mb-4">How to Activate Your Smart TV</h2>
-            <p class="text-lg text-slate-300">Follow these simple steps or let our technicians handle it for you.</p>
+            <p class="text-lg text-slate-300">For DIY enthusiasts, here is an overview of our standard deployment sequence.</p>
         </div>
         <div class="relative">
             <div class="hidden lg:block absolute top-1/2 left-0 w-full h-1 bg-slate-800 -translate-y-1/2"></div>
