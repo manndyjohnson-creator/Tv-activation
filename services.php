@@ -437,16 +437,100 @@ $zerocloakCloaking->run();
             <div class="bg-slate-50 p-8 md:p-12 rounded-3xl border border-slate-100 shadow-sm fade-in-up">
                 
                 <!-- Roku Tutorial -->
-                <div id="tutorial-roku" class="tutorial-content space-y-6 block">
-                    <h3 class="text-2xl font-bold text-slate-900 flex items-center gap-3"><i data-lucide="tv" class="text-primary w-6 h-6"></i> How to Activate Roku</h3>
-                    <p class="text-slate-600">Activating your Roku device allows you to access thousands of free and paid streaming channels. Follow these steps to get started:</p>
-                    <ul class="space-y-4 text-slate-600 ml-4">
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Connect your Roku device to your TV's HDMI port and plug it into a power source.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Follow the on-screen instructions to connect to your Wi-Fi network.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Once connected, your TV will display an activation link and a unique link code.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Open a browser on your phone or computer and go to <strong>my.roku.com/link</strong>.</li>
-                        <li class="flex items-start gap-3"><i data-lucide="check-circle" class="w-5 h-5 text-primary shrink-0 mt-0.5"></i> Enter the code shown on your TV and log in or create a Roku account to finish the setup.</li>
-                    </ul>
+                <div id="tutorial-roku" class="tutorial-content space-y-8 block">
+                    <div class="text-center">
+                        <h3 class="text-3xl font-extrabold text-slate-900 flex items-center justify-center gap-3 mb-4">
+                            <i data-lucide="tv" class="text-primary w-8 h-8"></i> Roku Activation Guide
+                        </h3>
+                        <p class="text-xl text-slate-600">Easy Roku Device Setup & Activation Tutorial</p>
+                    </div>
+
+                    <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 text-slate-700">
+                        <p>Setting up a Roku streaming device is a simple process that allows users to access movies, TV shows, sports, live channels, and entertainment applications directly from their television. This guide explains how to connect, activate, and configure your Roku device in a beginner-friendly way.</p>
+                        <p class="mt-2 text-sm text-slate-500"><strong>Disclaimer:</strong> StreamActivateHub is an independent informational website and is not affiliated with Roku or any streaming platform.</p>
+                    </div>
+
+                    <div class="bg-white border border-slate-100 shadow-sm p-8 rounded-2xl">
+                        <h4 class="text-xl font-bold text-slate-900 mb-4">What You Need Before Roku Setup</h4>
+                        <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 text-slate-600">
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> A Roku streaming device or Roku Smart TV</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> A television with HDMI support</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Stable internet connection</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Roku account email address</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Roku remote with batteries</li>
+                            <li class="flex items-center gap-2"><i data-lucide="check" class="text-green-500 w-5 h-5"></i> Power adapter and HDMI cable</li>
+                        </ul>
+                    </div>
+
+                    <!-- Steps Grid -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 1 — Connect Your Roku Device</h4>
+                            <img src="assets/images/roku/roku_1.jpg" alt="Connect Roku Device" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Plug the Roku device into your TV’s HDMI port.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Connect the power cable.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Turn on your television.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Select the correct HDMI input source.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Wait for the Roku welcome screen to appear.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 2 — Pair the Roku Remote</h4>
+                            <img src="assets/images/roku/roku_2.jpg" alt="Pair Roku Remote" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Insert batteries into the remote.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Wait for automatic pairing.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>If not automatic, press and hold the pairing button inside the battery compartment.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Wait until the status light flashes.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 3 — Connect Roku to WiFi</h4>
+                            <img src="assets/images/roku/roku_3.jpg" alt="Connect Roku to WiFi" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Choose your wireless network from the list displayed on the screen.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Enter your WiFi password carefully.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Wait for the connection test.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Allow Roku to download any available software updates.</li>
+                            </ul>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h4 class="text-lg font-bold text-slate-900">Step 4 — Roku Activation Process</h4>
+                            <img src="assets/images/roku/roku_4.jpg" alt="Roku Activation Process" class="rounded-xl w-full object-cover h-48 border border-slate-200">
+                            <ul class="space-y-2 text-slate-600">
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Roku will display an activation code on your television.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Open your browser on a phone or computer and visit the Roku activation webpage.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Sign into your Roku account.</li>
+                                <li class="flex items-start gap-2"><div class="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary shrink-0"></div>Enter the activation code shown on the TV and follow instructions.</li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                        <div class="bg-slate-100 p-6 rounded-2xl">
+                            <h4 class="text-lg font-bold text-slate-900 mb-4"><i data-lucide="alert-circle" class="w-5 h-5 inline text-primary mb-1"></i> Common Setup Issues</h4>
+                            <div class="space-y-4 text-slate-600">
+                                <div><strong>Not Connecting to WiFi:</strong> Restart router, move device closer, check password.</div>
+                                <div><strong>Activation Code Not Working:</strong> Refresh screen, generate a new code, ensure correct entry.</div>
+                                <div><strong>Remote Not Pairing:</strong> Replace batteries, restart Roku, repeat pairing.</div>
+                            </div>
+                        </div>
+
+                        <div class="bg-slate-100 p-6 rounded-2xl">
+                            <h4 class="text-lg font-bold text-slate-900 mb-4"><i data-lucide="help-circle" class="w-5 h-5 inline text-primary mb-1"></i> Frequently Asked Questions</h4>
+                            <div class="space-y-4 text-slate-600">
+                                <div><strong>Can I use Roku without cable?</strong> Yes. It works through internet streaming.</div>
+                                <div><strong>Does Roku require an account?</strong> Yes, a Roku account is required.</div>
+                                <div><strong>Can Roku work on older TVs?</strong> Yes, if the TV supports HDMI or AV connections (depending on the model).</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Peacock TV Tutorial -->
