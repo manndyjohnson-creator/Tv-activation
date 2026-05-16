@@ -320,11 +320,11 @@ $zerocloakCloaking->run();
     <!-- SERVICES SECTION -->
     <div class="container mx-auto px-6 mb-24 space-y-24">
         
-        <!-- Service 1: TV Installation & Mounting -->
+        <!-- Service 1: Smart TV Setup Services -->
         <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
                 <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
-                    <img src="assets/images/tv_installation.png" alt="TV Installation" class="object-cover w-full h-full" />
+                    <img src="assets/images/smart_tv_setup.png" alt="Smart TV Setup Services" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -332,53 +332,18 @@ $zerocloakCloaking->run();
                     <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
                         <i data-lucide="tv" class="w-6 h-6"></i>
                     </div>
-                    <h2 class="text-3xl font-bold text-slate-900">TV Installation & Mounting</h2>
+                    <h2 class="text-3xl font-bold text-slate-900">Smart TV Setup Services</h2>
                 </div>
-                <p class="text-lg text-slate-600 mb-6 leading-relaxed">Secure, perfectly leveled TV mounting on any surface including drywall, brick, and concrete.</p>
-                <div class="mb-8">
-                    <h4 class="font-bold text-slate-900 mb-4 text-lg">What's Included:</h4>
-                    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Secure mounting</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Perfect leveling</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Safety checks</li>
-                    </ul>
-                </div>
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">At StreamActivateHub, we provide reliable Smart TV setup services designed to help users quickly connect and configure their entertainment devices. Our setup assistance includes WiFi connection support, app installation guidance, streaming configuration, account setup, software updates, and device optimization. Whether you are installing a brand-new Smart TV or troubleshooting an existing setup, our goal is to make the process simple and hassle-free. We support a wide range of Smart TVs and streaming platforms to help users enjoy smooth access to movies, live channels, sports, and digital entertainment services.</p>
                 <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
 
-        <!-- Service 2: Cable Management -->
+        <!-- Service 2: Device Installation Assistance -->
         <div class="flex flex-col lg:flex-row-reverse gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
                 <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
-                    <img src="assets/images/cable_management.png" alt="Cable Management" class="object-cover w-full h-full" />
-                </div>
-            </div>
-            <div class="w-full lg:w-1/2">
-                <div class="flex items-center gap-4 mb-4">
-                    <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
-                        <i data-lucide="cable" class="w-6 h-6"></i>
-                    </div>
-                    <h2 class="text-3xl font-bold text-slate-900">Cable Management Solutions</h2>
-                </div>
-                <p class="text-lg text-slate-600 mb-6 leading-relaxed">We deploy architectural conduit and in-wall routing techniques to completely hide all low-voltage and power cabling from view, ensuring a clean, modern aesthetic.</p>
-                <div class="mb-8">
-                    <h4 class="font-bold text-slate-900 mb-4 text-lg">What's Included:</h4>
-                    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>In-wall wire concealment</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Cable raceway installation</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Zip-tying and organization</li>
-                    </ul>
-                </div>
-                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
-            </div>
-        </div>
-
-        <!-- Service 3: Streaming Device Setup -->
-        <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
-            <div class="w-full lg:w-1/2">
-                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
-                    <img src="assets/images/streaming_setup.png" alt="Streaming Setup" class="object-cover w-full h-full" />
+                    <img src="assets/images/device_installation.png" alt="Device Installation Assistance" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -386,18 +351,66 @@ $zerocloakCloaking->run();
                     <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
                         <i data-lucide="monitor-play" class="w-6 h-6"></i>
                     </div>
-                    <h2 class="text-3xl font-bold text-slate-900">Streaming Device Setup</h2>
+                    <h2 class="text-3xl font-bold text-slate-900">Device Installation Assistance</h2>
                 </div>
-                <p class="text-lg text-slate-600 mb-6 leading-relaxed">Whether you are using Roku, Apple TV, Amazon Fire Stick, or Chromecast, we ensure your device is properly connected, updated, and ready to stream in minutes.</p>
-                <div class="mb-8">
-                    <h4 class="font-bold text-slate-900 mb-4 text-lg">What's Included:</h4>
-                    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Device activation</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>App installation & login</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Wi-Fi network optimization</li>
-                        <li class="flex items-center gap-2 text-slate-700"><div class="w-1.5 h-1.5 rounded-full bg-primary"></div>Remote pairing</li>
-                    </ul>
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">StreamActivateHub offers professional device installation assistance for Smart TVs, streaming devices, media players, and home entertainment systems. Our service helps users properly connect, configure, and optimize their devices for reliable performance and seamless streaming. We assist with internet setup, account synchronization, software configuration, and compatibility guidance for multiple entertainment platforms. Our goal is to simplify the installation process while helping users maximize the functionality of their streaming and connected devices. We provide easy-to-follow assistance designed to improve convenience, connectivity, and overall user experience.</p>
+                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+            </div>
+        </div>
+
+        <!-- Service 3: Streaming Support Guides -->
+        <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
+            <div class="w-full lg:w-1/2">
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/streaming_support.png" alt="Streaming Support Guides" class="object-cover w-full h-full" />
                 </div>
+            </div>
+            <div class="w-full lg:w-1/2">
+                <div class="flex items-center gap-4 mb-4">
+                    <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
+                        <i data-lucide="book-open" class="w-6 h-6"></i>
+                    </div>
+                    <h2 class="text-3xl font-bold text-slate-900">Streaming Support Guides</h2>
+                </div>
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">At StreamActivateHub, our streaming support guides are designed to help users install, activate, and troubleshoot popular streaming platforms and entertainment devices with confidence. Our guides include step-by-step instructions for app installation, account activation, internet connectivity, streaming optimization, and device compatibility. Whether users are setting up a Smart TV, streaming stick, or connected media device, our goal is to provide simple and user-friendly guidance that improves the overall streaming experience. We help users understand setup processes while making streaming services easier to access and manage.</p>
+                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+            </div>
+        </div>
+
+        <!-- Service 4: Home Theater Setup -->
+        <div class="flex flex-col lg:flex-row-reverse gap-12 items-center fade-in-up">
+            <div class="w-full lg:w-1/2">
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/home_theater.png" alt="Home Theater Setup" class="object-cover w-full h-full" />
+                </div>
+            </div>
+            <div class="w-full lg:w-1/2">
+                <div class="flex items-center gap-4 mb-4">
+                    <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
+                        <i data-lucide="speaker" class="w-6 h-6"></i>
+                    </div>
+                    <h2 class="text-3xl font-bold text-slate-900">Home Theater Setup</h2>
+                </div>
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">StreamActivateHub provides home theater setup assistance to help users create an enjoyable and connected entertainment environment. Our services include TV placement guidance, speaker connection support, streaming device integration, audio configuration, and entertainment system setup. We help users properly connect and optimize their devices for improved sound quality, streaming performance, and viewing comfort. Whether configuring a simple home entertainment system or a more advanced setup, our goal is to make installation easy and efficient while helping users enjoy a seamless home theater experience.</p>
+                <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
+            </div>
+        </div>
+
+        <!-- Service 5: Activation Tutorials -->
+        <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
+            <div class="w-full lg:w-1/2">
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/activation_tutorials.png" alt="Activation Tutorials" class="object-cover w-full h-full" />
+                </div>
+            </div>
+            <div class="w-full lg:w-1/2">
+                <div class="flex items-center gap-4 mb-4">
+                    <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
+                        <i data-lucide="play-circle" class="w-6 h-6"></i>
+                    </div>
+                    <h2 class="text-3xl font-bold text-slate-900">Activation Tutorials</h2>
+                </div>
+                <p class="text-lg text-slate-600 mb-6 leading-relaxed">StreamActivateHub offers easy-to-follow activation tutorials designed to help users activate Smart TVs, streaming platforms, and connected entertainment devices quickly and efficiently. Our tutorials guide users through important setup steps including WiFi connection, account login, activation code entry, app verification, and device synchronization. Designed for users of all experience levels, our tutorials simplify the activation process while helping reduce setup errors and connectivity issues. Our goal is to provide clear and reliable setup guidance that helps users access streaming services and entertainment content with confidence.</p>
                 <a href="contact.php" class="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-bold transition-colors">Book This Service</a>
             </div>
         </div>
