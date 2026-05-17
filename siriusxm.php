@@ -75,7 +75,7 @@
         </p>
         <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="https://www.siriusxm.com" target="_blank" class="w-full sm:w-auto bg-sirius-blue hover:bg-blue-700 text-white px-10 py-5 rounded-full font-bold text-lg transition-all shadow-[0_0_20px_rgba(0,0,235,0.4)]">
-                Visit Official Site
+                Best Offers
             </a>
             <a href="#setup" class="w-full sm:w-auto bg-transparent border border-white hover:bg-white hover:text-black text-white px-10 py-5 rounded-full font-bold text-lg transition-colors">
                 View Setup Guide
@@ -199,8 +199,8 @@
 <div id="sirius-popup" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-500">
     <div class="bg-[#111] border border-[#333] rounded-3xl p-8 max-w-md w-full mx-4 shadow-[0_0_50px_rgba(0,0,235,0.2)] transform scale-95 transition-transform duration-500 relative text-center">
         
-        <div class="w-20 h-20 bg-sirius-blue rounded-full flex items-center justify-center mx-auto mb-6 shadow-lg">
-            <i data-lucide="phone-call" class="w-10 h-10 text-white"></i>
+        <div class="w-24 h-24 mx-auto mb-6">
+            <img src="assets/images/support_phone_icon.png" alt="Phone Icon" class="w-full h-full object-contain drop-shadow-[0_0_15px_rgba(0,0,235,0.4)]">
         </div>
         
         <h3 class="text-3xl font-extrabold text-white mb-2">Need Help?</h3>
