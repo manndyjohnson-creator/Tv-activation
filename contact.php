@@ -26,7 +26,7 @@ include 'includes/header.php';
                             </div>
                             <div>
                                 <p class="font-bold text-slate-900">Phone</p>
-                                <p class="text-slate-600">+1 205 675 0579</p>
+                                <p class="text-slate-600">+1 8775130191</p>
                             </div>
                         </div>
                         <div class="flex gap-4">

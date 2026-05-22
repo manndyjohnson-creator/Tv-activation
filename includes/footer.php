@@ -53,7 +53,7 @@
                         </li>
                         <li class="flex items-center gap-3">
                             <i data-lucide="phone" class="text-primary shrink-0 w-4 h-4"></i>
-                            <span>+1 205 675 0579</span>
+                            <span>+1 8775130191</span>
                         </li>
                         <li class="flex items-center gap-3">
                             <i data-lucide="mail" class="text-primary shrink-0 w-4 h-4"></i>
