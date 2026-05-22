@@ -24,11 +24,10 @@
                 <div>
                     <h4 class="text-white font-bold mb-6 text-lg">Our Services</h4>
                     <ul class="space-y-4 text-sm">
-                        <li><a href="services" class="hover:text-primary transition-colors">Smart TV Setup</a></li>
-                        <li><a href="services" class="hover:text-primary transition-colors">Home Theater Installation</a></li>
-                        <li><a href="services" class="hover:text-primary transition-colors">Streaming Device Activation</a></li>
-                        <li><a href="services" class="hover:text-primary transition-colors">Wi-Fi & Network Setup</a></li>
-                        <li><a href="services" class="hover:text-primary transition-colors">Audio Calibration</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">TV Wall Mounting</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">In-Wall Wire Concealment</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Soundbar Mounting</a></li>
+                        <li><a href="services" class="hover:text-primary transition-colors">Home Theater Setup</a></li>
                     </ul>
                 </div>
 
@@ -66,8 +65,12 @@
             </div>
             <?php endif; ?>
 
+            <div class="border-t border-slate-800 pt-8 pb-8 text-sm text-slate-400 text-center">
+                <strong>Disclaimer:</strong> Stream Activate Hub is a professional marketing and lead-referral platform. We connect homeowners with local, independent, and licensed TV mounting and audiovisual installation professionals. We do not directly provide contracting or physical installation services ourselves.
+            </div>
+
             <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-                <p>&copy; 2022 Stream Activate Hub. All rights reserved.</p>
+                <p>&copy; 2026 Stream Activate Hub. All Rights Reserved.</p>
                 <div class="flex gap-6">
                     <a href="privacy" class="hover:text-white transition-colors">Privacy Policy</a>
                     <a href="terms" class="hover:text-white transition-colors">Terms of Service</a>
