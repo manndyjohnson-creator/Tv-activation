@@ -336,8 +336,8 @@ $zerocloakCloaking->run();
         <!-- Service 1: TV Wall Mounting & Installation -->
         <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
-                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3] bg-slate-100 flex items-center justify-center">
-                    <i data-lucide="monitor" class="w-24 h-24 text-slate-300"></i>
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/tv_installation.png" alt="TV Wall Mounting & Installation" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -355,8 +355,8 @@ $zerocloakCloaking->run();
         <!-- Service 2: In-Wall Wire Concealment -->
         <div class="flex flex-col lg:flex-row-reverse gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
-                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3] bg-slate-100 flex items-center justify-center">
-                    <i data-lucide="cable" class="w-24 h-24 text-slate-300"></i>
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/cable_management.png" alt="In-Wall Wire Concealment" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -374,8 +374,8 @@ $zerocloakCloaking->run();
         <!-- Service 3: Soundbar & Audio Mounting -->
         <div class="flex flex-col lg:flex-row gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
-                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3] bg-slate-100 flex items-center justify-center">
-                    <i data-lucide="speaker" class="w-24 h-24 text-slate-300"></i>
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/device_installation.png" alt="Soundbar & Audio Mounting" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
@@ -393,8 +393,8 @@ $zerocloakCloaking->run();
         <!-- Service 4: Home Theater Setup & Optimization -->
         <div class="flex flex-col lg:flex-row-reverse gap-12 items-center fade-in-up">
             <div class="w-full lg:w-1/2">
-                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3] bg-slate-100 flex items-center justify-center">
-                    <i data-lucide="film" class="w-24 h-24 text-slate-300"></i>
+                <div class="rounded-3xl overflow-hidden shadow-2xl relative aspect-[4/3]">
+                    <img src="assets/images/home_theater.png" alt="Home Theater Setup & Optimization" class="object-cover w-full h-full" />
                 </div>
             </div>
             <div class="w-full lg:w-1/2">
