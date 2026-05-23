@@ -326,7 +326,7 @@ $zerocloakCloaking->run();
 <!-- Hero Section -->
 <section class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden bg-white">
     <div class="absolute inset-0 z-0">
-        <img src="../tv-activations/public/hero.png" alt="Smart TV Setup" class="w-full h-full object-cover object-center" />
+        <img src="../tv-activations/public/hero.png" alt="TV Wall Mounting" class="w-full h-full object-cover object-center" />
         <div class="absolute inset-0 bg-gradient-to-r from-white via-white/95 to-white/40 lg:to-transparent"></div>
     </div>
     <div class="container mx-auto px-6 relative z-10">
@@ -335,7 +335,7 @@ $zerocloakCloaking->run();
                 #1 Rated Home Entertainment Service
             </span>
             <h1 class="text-5xl lg:text-6xl font-extrabold leading-tight text-slate-900 mb-6">
-                Fast & Easy <span class="text-primary">Smart TV</span> Setup Services
+                Professional <span class="text-primary">TV Wall Mounting</span> Services
             </h1>
             <p class="text-lg text-slate-600 mb-8 leading-relaxed max-w-xl">
                 We secure cables behind the wall, use structural conduit for a clean finish, and properly calibrate your audio-visual equipment.
@@ -377,25 +377,25 @@ $zerocloakCloaking->run();
             <!-- Service 2 -->
             <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-xl transition-shadow border border-slate-100 group fade-in-up delay-200">
                 <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-primary transition-colors">
-                    <i data-lucide="monitor-play" class="text-primary group-hover:text-white w-7 h-7"></i>
+                    <i data-lucide="cable" class="text-primary group-hover:text-white w-7 h-7"></i>
                 </div>
-                <h3 class="text-xl font-bold text-slate-900 mb-3">Smart TV Setup</h3>
-                <p class="text-slate-600 mb-6 line-clamp-2">Complete configuration of your new TV, including apps and accounts.</p>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Wire Concealment</h3>
+                <p class="text-slate-600 mb-6 line-clamp-2">In-wall cable management for a clean, clutter-free entertainment space.</p>
                 <a href="services" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
             </div>
             <!-- Service 3 -->
             <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-xl transition-shadow border border-slate-100 group fade-in-up delay-300">
                 <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-primary transition-colors">
-                    <i data-lucide="cast" class="text-primary group-hover:text-white w-7 h-7"></i>
+                    <i data-lucide="speaker" class="text-primary group-hover:text-white w-7 h-7"></i>
                 </div>
-                <h3 class="text-xl font-bold text-slate-900 mb-3">Device Activation</h3>
-                <p class="text-slate-600 mb-6 line-clamp-2">Fast activation for Roku, Apple TV, Fire Stick, and other streamers.</p>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Soundbar Mounting</h3>
+                <p class="text-slate-600 mb-6 line-clamp-2">Perfectly aligned audio equipment for optimal acoustic performance.</p>
                 <a href="services" class="text-primary font-semibold flex items-center gap-2 hover:gap-3 transition-all">Learn more &rarr;</a>
             </div>
             <!-- Service 4 -->
             <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-xl transition-shadow border border-slate-100 group fade-in-up delay-400">
                 <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-primary transition-colors">
-                    <i data-lucide="speaker" class="text-primary group-hover:text-white w-7 h-7"></i>
+                    <i data-lucide="film" class="text-primary group-hover:text-white w-7 h-7"></i>
                 </div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Home Theater</h3>
                 <p class="text-slate-600 mb-6 line-clamp-2">Surround sound installation and precise audio calibration.</p>
@@ -450,8 +450,8 @@ $zerocloakCloaking->run();
     <div class="absolute inset-0 opacity-10 bg-black bg-cover bg-center mix-blend-overlay"></div>
     <div class="container mx-auto px-6 relative z-10">
         <div class="text-center max-w-3xl mx-auto mb-16 fade-in-up">
-            <h2 class="text-4xl font-bold mb-4">How to Activate Your Smart TV</h2>
-            <p class="text-lg text-slate-300">For DIY enthusiasts, here is an overview of our standard deployment sequence.</p>
+            <h2 class="text-4xl font-bold mb-4">Our Installation Process</h2>
+            <p class="text-lg text-slate-300">A seamless, hassle-free experience from start to finish.</p>
         </div>
         <div class="relative">
             <div class="hidden lg:block absolute top-1/2 left-0 w-full h-1 bg-slate-800 -translate-y-1/2"></div>
@@ -459,36 +459,36 @@ $zerocloakCloaking->run();
                 <div class="relative fade-in-up delay-100">
                     <div class="bg-slate-800 rounded-2xl p-6 relative z-10 border border-slate-700 h-full hover:border-primary transition-colors">
                         <div class="absolute -top-5 left-1/2 -translate-x-1/2 w-10 h-10 bg-primary rounded-full flex items-center justify-center font-bold border-4 border-slate-900">1</div>
-                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="power" class="w-8 h-8"></i></div>
-                        <h4 class="text-lg font-bold text-center mb-2">Turn on Device</h4>
+                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="calendar" class="w-8 h-8"></i></div>
+                        <h4 class="text-lg font-bold text-center mb-2">Book Service</h4>
                     </div>
                 </div>
                 <div class="relative fade-in-up delay-200">
                     <div class="bg-slate-800 rounded-2xl p-6 relative z-10 border border-slate-700 h-full hover:border-primary transition-colors">
                         <div class="absolute -top-5 left-1/2 -translate-x-1/2 w-10 h-10 bg-primary rounded-full flex items-center justify-center font-bold border-4 border-slate-900">2</div>
-                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="wifi" class="w-8 h-8"></i></div>
-                        <h4 class="text-lg font-bold text-center mb-2">Connect to Wi-Fi</h4>
+                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="map-pin" class="w-8 h-8"></i></div>
+                        <h4 class="text-lg font-bold text-center mb-2">Technician Arrives</h4>
                     </div>
                 </div>
                 <div class="relative fade-in-up delay-300">
                     <div class="bg-slate-800 rounded-2xl p-6 relative z-10 border border-slate-700 h-full hover:border-primary transition-colors">
                         <div class="absolute -top-5 left-1/2 -translate-x-1/2 w-10 h-10 bg-primary rounded-full flex items-center justify-center font-bold border-4 border-slate-900">3</div>
-                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="key-round" class="w-8 h-8"></i></div>
-                        <h4 class="text-lg font-bold text-center mb-2">Get Activation Code</h4>
+                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="hammer" class="w-8 h-8"></i></div>
+                        <h4 class="text-lg font-bold text-center mb-2">Secure Mounting</h4>
                     </div>
                 </div>
                 <div class="relative fade-in-up delay-400">
                     <div class="bg-slate-800 rounded-2xl p-6 relative z-10 border border-slate-700 h-full hover:border-primary transition-colors">
                         <div class="absolute -top-5 left-1/2 -translate-x-1/2 w-10 h-10 bg-primary rounded-full flex items-center justify-center font-bold border-4 border-slate-900">4</div>
-                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="globe" class="w-8 h-8"></i></div>
-                        <h4 class="text-lg font-bold text-center mb-2">Visit Setup Page</h4>
+                        <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="cable" class="w-8 h-8"></i></div>
+                        <h4 class="text-lg font-bold text-center mb-2">Wire Concealment</h4>
                     </div>
                 </div>
                 <div class="relative fade-in-up delay-400">
                     <div class="bg-slate-800 rounded-2xl p-6 relative z-10 border border-slate-700 h-full hover:border-primary transition-colors">
                         <div class="absolute -top-5 left-1/2 -translate-x-1/2 w-10 h-10 bg-primary rounded-full flex items-center justify-center font-bold border-4 border-slate-900">5</div>
                         <div class="flex justify-center mb-4 mt-4 text-primary"><i data-lucide="check-circle" class="w-8 h-8"></i></div>
-                        <h4 class="text-lg font-bold text-center mb-2">Complete Setup</h4>
+                        <h4 class="text-lg font-bold text-center mb-2">Final Calibration</h4>
                     </div>
                 </div>
             </div>

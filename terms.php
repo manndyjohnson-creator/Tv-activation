@@ -7,7 +7,7 @@
             <p><strong>Last Updated: <?php echo date("F d, Y"); ?></strong></p>
             <p>By accessing or using the Stream Activate Hub website and services, you agree to be bound by these Terms of Service.</p>
             <h2 class="text-2xl font-bold text-slate-900 mt-8 mb-4">Service Limitations</h2>
-            <p>Stream Activate Hub provides independent AV installation and technical support. We are not affiliated with, endorsed by, or sponsored by any third-party streaming services, television manufacturers, or internet service providers.</p>
+            <p>Stream Activate Hub provides independent AV installation and technical support. We are not affiliated with, endorsed by, or sponsored by any third-party brands, television manufacturers, or internet service providers.</p>
             <h2 class="text-2xl font-bold text-slate-900 mt-8 mb-4">Scheduling and Cancellations</h2>
             <p>Service appointments must be canceled or rescheduled at least 24 hours in advance. Failure to do so may result in a cancellation fee. Our technicians reserve the right to refuse service if the installation environment is deemed unsafe.</p>
             <h2 class="text-2xl font-bold text-slate-900 mt-8 mb-4">Liability</h2>

@@ -15,7 +15,7 @@
                         </span>
                     </a>
                     <p class="text-sm leading-relaxed">
-                        Premium home entertainment installation, smart TV setup, and network configuration services. Fast, professional, and reliable.
+                        Premium local TV wall mounting, professional wire concealment, and home theater installation services. Fast, reliable, and secure.
                     </p>
 
                 </div>
