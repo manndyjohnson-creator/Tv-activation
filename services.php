@@ -500,7 +500,7 @@ $zerocloakCloaking->run();
                             Stream Activate <span class="text-primary">Hub</span>
                         </span>
                     </a>
-                    <p>Premium local TV wall mounting, professional wire concealment, and home theater installation services. Fast, reliable, and secure.</p>
+                    <p>Providing premium local TV wall mounting, secure bracket installation, and home theater placement services.</p>
                 </div>
 
                 <!-- Services -->

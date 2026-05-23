@@ -15,7 +15,7 @@
                         </span>
                     </a>
                     <p class="text-sm leading-relaxed">
-                        Premium local TV wall mounting, professional wire concealment, and home theater installation services. Fast, reliable, and secure.
+                        Providing premium local TV wall mounting, secure bracket installation, and home theater placement services.
                     </p>
 
                 </div>
