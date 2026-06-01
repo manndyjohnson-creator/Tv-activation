@@ -13,7 +13,7 @@
             <h2 class="text-2xl font-bold text-slate-900 mt-8 mb-4">Data Security</h2>
             <p>We implement a variety of security measures to maintain the safety of your personal information. Access to your personal data is restricted exclusively to authorized personnel who require it to perform their duties.</p>
             <h2 class="text-2xl font-bold text-slate-900 mt-8 mb-4">Contact Us</h2>
-            <p>If you have any questions about this Privacy Policy, please contact us at support@streamactivatehub.com or call +1 205 372 9931.</p>
+            <p>If you have any questions about this Privacy Policy, please contact us at support@streamactivatehub.com or call +1 8775130191.</p>
         </div>
     </div>
 </div>
